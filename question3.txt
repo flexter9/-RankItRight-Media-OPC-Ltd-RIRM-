@@ -1,0 +1,20 @@
+1]What is reverse-i-search in a Linux terminal?
+
+Ans:- It is tool/feature which we can use in a terminal by pressing "CTRL+R" to surf the previously used commands. 
+      We can also provide search string to find the command which matches/contains the string.
+
+2]How do you list out the hidden directories using Linux command line tool?
+
+Ans:- We can list all hidden files/directories by making use of "-a" flag with the ls command.
+
+3]How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+
+Ans:- I'm using Ubuntu from the 1st year of my graduation and almost using it for 6 years.
+      Never used Centos but i have used ParrotOS and Kali Linux.
+
+4]Have you ever used Servers to host any web applications in the past? If yes, what
+  services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+Ans:- Yes, I have host almost all my projects on the web. 
+      But i have used external hosting services(Heroku) to do so.
+      Also i have use apache+xampp server to deploye my PHP projects.
